@@ -20,4 +20,6 @@ In Windows 10 and earlier versions of Windows, the password can be bypassed by t
 
 You will be prompted to enter a new password, then asked to confirm it. Once you confirm, you will have successfully changed the password for your account.
 
-Please note that the password changing bypass only works on Windows 10 and earlier versions of Windows.
+Please note that the password changing bypass only works on Windows 10 and earlier versions of Windows,
+in Windows 11 you will get the CMD in your Login Page But you will not be able to get past the login page by any possible methods known to me
+if you have any such methods pull a issue in this repo and let me know
