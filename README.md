@@ -9,7 +9,7 @@ Unofficial Custom Windows PE is a project created by Py0x11 that allows users to
 To use Unofficial Custom Windows PE, follow these steps:
 
 1. Boot the Py0x11_CMD.iso file.
-2. for booting the iso file i recommend using ventoy [https://www.ventoy.net/]
+2. for booting the iso file i recommend using ventoy [ https://www.ventoy.net/ ]
 3. Type in the following command: `ren C:\Windows\System32\Utilman.exe Utilman.old`
 4. Type in the following command: `copy C:\Windows\System32\cmd.exe Utilman.exe`
 5. Type in the command `exit`, and the window will close and reboot you into your main Windows boot.
@@ -24,3 +24,11 @@ You will be prompted to enter a new password, then asked to confirm it. Once you
 Please note that the password changing bypass only works on Windows 10 and earlier versions of Windows,
 in Windows 11 you will get the CMD in your Login Page But you will not be able to get past the login page by any possible methods known to me
 if you have any such methods pull a issue in this repo and let me know
+
+## Disclaimer
+
+Please note that this project, Unofficial Custom Windows PE, was created for demonstration and educational purposes only. The developer, Py0x11, is not responsible for any losses or damages caused by the use of this project.
+
+While this tool can be useful for taking important backups or recovering access to a locked account, it should only be used on systems you have permission to access or own.
+
+Any misuse of this project for malicious purposes is strictly prohibited and the developer shall not be held liable for any consequences resulting from such actions.
