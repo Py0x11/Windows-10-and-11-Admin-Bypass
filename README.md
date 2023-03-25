@@ -9,10 +9,11 @@ Unofficial Custom Windows PE is a project created by Py0x11 that allows users to
 To use Unofficial Custom Windows PE, follow these steps:
 
 1. Boot the Py0x11_CMD.iso file.
-2. Type in the following command: `ren C:\Windows\System32\Utilman.exe Utilman.old`
-3. Type in the following command: `copy C:\Windows\System32\cmd.exe Utilman.exe`
-4. Type in the command `exit`, and the window will close and reboot you into your main Windows boot.
-5. Click on the Accessibility icon on the bottom right corner of the login screen to open the Administrator Command Prompt.
+2. for booting the iso file i recommend using ventoy [https://www.ventoy.net/]
+3. Type in the following command: `ren C:\Windows\System32\Utilman.exe Utilman.old`
+4. Type in the following command: `copy C:\Windows\System32\cmd.exe Utilman.exe`
+5. Type in the command `exit`, and the window will close and reboot you into your main Windows boot.
+6. Click on the Accessibility icon on the bottom right corner of the login screen to open the Administrator Command Prompt.
 
 ## Password Bypass
 
